@@ -27,7 +27,7 @@ trait Singleton {
      *
      * @return object Singleton instance of the class.
      */
-    final public static function get_instance() {
+    final public static function getInstance() {
         /**
          * Returns name of the class the static method is called in.
          */
