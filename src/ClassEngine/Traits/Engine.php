@@ -1,6 +1,6 @@
 <?php
 
-namespace apexl\Class_engine\Traits;
+namespace apexl\ClassEngine\Traits;
 
 trait Engine {
 

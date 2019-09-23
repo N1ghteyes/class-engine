@@ -1,6 +1,6 @@
 <?php
 
-namespace apexl\Class_engine\Traits;
+namespace apexl\ClassEngine\Traits;
 
 /**
  * Singleton trait to implements Singleton pattern in any classes where this trait is used.
