@@ -1,0 +1,13 @@
+{
+  "name": "apexl/ClassEngine",
+  "description": "A base class package for extension. Provides a number of defaults and interface guides for the Operator/Driver approach",
+  "type": "project",
+  "require": {
+    "php": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "apexl\\": "src/"
+    }
+  }
+}
