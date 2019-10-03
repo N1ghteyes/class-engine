@@ -4,6 +4,6 @@ namespace apexl\ClassEngine;
 
 use apexl\ClassEngine\Traits\Singleton;
 
-class EngineSingleton {
+abstract class EngineSingleton {
     use Singleton;
 }
