@@ -1,5 +1,5 @@
 {
-  "name": "apexl/ClassEngine",
+  "name": "apexl/class-engine",
   "description": "A base class package for extension. Provides a number of defaults and interface guides for the Operator/Driver approach",
   "type": "project",
   "require": {
