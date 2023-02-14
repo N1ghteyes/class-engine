@@ -1,6 +1,6 @@
 {
   "name": "class-engine",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "PHP Engine class for producing fully modular classes with interchangeable drivers and operators.",
   "main": "index.js",
   "scripts": {
