@@ -1,0 +1,23 @@
+{
+  "name": "class-engine",
+  "version": "0.1.0",
+  "description": "PHP Engine class for producing fully modular classes with interchangeable drivers and operators.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N1ghteyes/class-engine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N1ghteyes/class-engine/issues"
+  },
+  "homepage": "https://github.com/N1ghteyes/class-engine#readme",
+  "devDependencies": {
+    "release-it": "^15.6.0"
+  }
+}
