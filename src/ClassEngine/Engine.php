@@ -2,6 +2,6 @@
 
 namespace apexl\ClassEngine;
 
-class Engine {
-
+class Engine
+{
 }
