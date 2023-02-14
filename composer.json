@@ -3,7 +3,7 @@
   "description": "A base class package for extension. Provides a number of defaults and interface guides for the Operator/Driver approach",
   "type": "project",
   "require": {
-    "php": "^7.0"
+    "php": "^8.2"
   },
   "autoload": {
     "psr-4": {
