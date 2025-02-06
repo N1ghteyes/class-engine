@@ -18,7 +18,7 @@ trait Singleton
     {
     }
 
-    protected static function reset()
+    public static function reset()
     {
         self::$_instance = [];
     }
