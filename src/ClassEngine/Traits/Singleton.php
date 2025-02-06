@@ -18,6 +18,11 @@ trait Singleton
     {
     }
 
+    protected static function reset()
+    {
+        self::$_instance = [];
+    }
+
     /**
      * Prevent object cloning
      */
